@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Code4Life",
+    "slug": "findcoders",
+    "privacy": "public",
+    "sdkVersion": "32.0.0",
+    "facebookScheme": "fb404906886726349",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/CodeBook2.png", 
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
